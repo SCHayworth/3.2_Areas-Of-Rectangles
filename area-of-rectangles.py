@@ -22,4 +22,4 @@ if rect_a_area > rect_b_area:
 elif rect_a_area < rect_b_area: 
   print(f'\nRectangle B has the greatest area: {rect_b_area:.2f} sq. feet.')
 else:
-  print(f'\nBoth rectangles have the same area!')
+  print(f'\nBoth rectangles have the same area: {rect_a_area:.2f} sq. feet.')
